@@ -8,7 +8,8 @@
     <string name="emailL">Enter your email</string>
     <string name="passwordL">Enter your password</string>
     <string name="loginL">LOGIN</string>
-    <string name="text">Karibu sana!! clothStore application ! Nunua, place order kwa ukipendacho na with free delivery.</string>
+    <string name="text">Karibu sana!! clothStore Nunua, place order kwa ukipendacho na with free delivery.</string>
     <string name="login_here">Already Have an Account? Login Here</string>
     <string name="registerM">Register Here</string>
+    <string name="name">dash</string>
 </resources>
