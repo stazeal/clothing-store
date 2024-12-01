@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">clotheStore</string>
+    <string name="hello_anna">Hello Dear!!!,KARIBU </string>
+    <string name="password">Enter your Password</string>
+    <string name="email">Enter your email</string>
+    <string name="register">REGISTER</string>
+    <string name="username">Enter your UserName</string>
+    <string name="emailL">Enter your email</string>
+    <string name="passwordL">Enter your password</string>
+    <string name="loginL">LOGIN</string>
+    <string name="text">Karibu sana!! clothStore application ! Nunua, place order kwa ukipendacho na with free delivery.</string>
+    <string name="login_here">Already Have an Account? Login Here</string>
+    <string name="registerM">Register Here</string>
+</resources>
